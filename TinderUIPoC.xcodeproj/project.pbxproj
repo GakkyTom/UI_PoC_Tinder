@@ -16,7 +16,6 @@
 		5C7E483B248BCA9300E01610 /* TinderUIPoCTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7E483A248BCA9300E01610 /* TinderUIPoCTests.swift */; };
 		5C7E4846248BCA9300E01610 /* TinderUIPoCUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7E4845248BCA9300E01610 /* TinderUIPoCUITests.swift */; };
 		5C7E4854248BD2A000E01610 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7E4853248BD2A000E01610 /* CardView.swift */; };
-		5C7E4856248CAD6000E01610 /* KittenModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5C7E4855248CAD6000E01610 /* KittenModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,7 +51,6 @@
 		5C7E4845248BCA9300E01610 /* TinderUIPoCUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TinderUIPoCUITests.swift; sourceTree = "<group>"; };
 		5C7E4847248BCA9300E01610 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5C7E4853248BD2A000E01610 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
-		5C7E4855248CAD6000E01610 /* KittenModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KittenModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,7 +104,6 @@
 				5C7E4823248BCA9100E01610 /* AppDelegate.swift */,
 				5C7E4825248BCA9100E01610 /* SceneDelegate.swift */,
 				5C7E4827248BCA9100E01610 /* ContentView.swift */,
-				5C7E4855248CAD6000E01610 /* KittenModel.swift */,
 				5C7E4853248BD2A000E01610 /* CardView.swift */,
 				5C7E4829248BCA9300E01610 /* Assets.xcassets */,
 				5C7E482E248BCA9300E01610 /* LaunchScreen.storyboard */,
@@ -275,7 +272,6 @@
 			files = (
 				5C7E4824248BCA9100E01610 /* AppDelegate.swift in Sources */,
 				5C7E4826248BCA9100E01610 /* SceneDelegate.swift in Sources */,
-				5C7E4856248CAD6000E01610 /* KittenModel.swift in Sources */,
 				5C7E4854248BD2A000E01610 /* CardView.swift in Sources */,
 				5C7E4828248BCA9100E01610 /* ContentView.swift in Sources */,
 			);
